@@ -1,4 +1,4 @@
-Début Algorithme
+0Début Algorithme
     Déclaration des variables : nombre1, operateur, nombre2
 
     Début
